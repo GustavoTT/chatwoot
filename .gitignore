@@ -30,6 +30,9 @@ master.key
 # Ignore env files
 .env
 
+# Docker Compose com variáveis (local)
+docker-compose.yaml
+
 public/uploads
 public/packs*
 public/assets/administrate*
